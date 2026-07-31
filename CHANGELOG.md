@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.0.0 — 2026-07-31
+## [Initial Version] - {PR_MERGE_DATE}
 
 - Record the selected macOS display with microphone, cursor, and click highlights.
 - Mark exact feedback moments with timestamped screenshots.
