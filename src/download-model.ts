@@ -10,9 +10,9 @@ import {
 import { runFile } from "./lib/process";
 
 const MODEL_URL =
-  "https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-base.bin";
+  "https://huggingface.co/ggerganov/whisper.cpp/resolve/5359861c739e955e79d9a303bcbc70fb988958b1/ggml-base.bin";
 const VAD_MODEL_URL =
-  "https://huggingface.co/ggml-org/whisper-vad/resolve/main/ggml-silero-v6.2.0.bin";
+  "https://huggingface.co/ggml-org/whisper-vad/resolve/9ffd54a1e1ee413ddf265af9913beaf518d1639b/ggml-silero-v6.2.0.bin";
 const MODEL_SHA256 =
   "60ed5bc3dd14eea856493d334349b405782ddcaf0028d4b5df4088345fba2efe";
 const VAD_MODEL_SHA256 =
